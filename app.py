@@ -158,5 +158,5 @@ if user_project_selection == 'Iris':
 
 
 # ====================================================================
-st.markdown('Designed by: **Nishant Singh**')
+st.markdown('Designed by: **Abhay Verma**')
 
